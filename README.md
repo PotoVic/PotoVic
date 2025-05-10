@@ -5,7 +5,7 @@ I am currently studying Frontend Development at Medieinstitutet, Stockholm Swede
 
 - :house: Living in Sweden, Uppsala
 - :video_game: Been gaming since I was 5y/o
-- :dog: Love animals and specially bulldogs
+- :dog: Love animals, specially bulldogs
 - :camera_flash: When im outside for a walk, I usually like to take pictures of nature
 
 ## About/Goals
