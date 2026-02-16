@@ -10,4 +10,4 @@ I am currently studying Frontend Development at Medieinstitutet, Stockholm Swede
 
 ## About/Goals
 
-I’m currently studying Frontend Development, which I truly enjoy. I love the idea that I can build my own environment using just code—it’s fascinating to see how everything comes together behind the scenes. I’ve always been interested in coding, but I wasn’t sure exactly what I wanted to do—whether it was becoming a video game developer or a frontend developer. However, when I started studying frontend and backend on my own, I really began to love it. That’s why, in the future, I also want to pursue a degree in Backend Development.
+I’m currently studying Frontend Development, which I truly enjoy. I love the idea that I can build my own environment using just code it’s fascinating to see how everything comes together behind the scenes. I’ve always been interested in coding, but I wasn’t sure exactly what I wanted to do whether it was becoming a video game developer or a frontend developer. However, when I started studying frontend and backend on my own, I really began to love it. That’s why, in the future, I also want to pursue a degree in Backend Development.
